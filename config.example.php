@@ -1,0 +1,4 @@
+<?php
+$bucket = '';
+$key = '';
+$secret = '';
